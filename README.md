@@ -1,1 +1,1 @@
-# Data-Normalization-Redundancy-Removal
+# Data-Normalization-Redundancy-Removal: in this repository, there is an example of a data set that compares the number of stays in weekend nights in hotel room bookings due to how many adults are booking them. T
